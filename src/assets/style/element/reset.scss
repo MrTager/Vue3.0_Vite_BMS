@@ -1,0 +1,22 @@
+.el-menu{
+  background-color: rgba(57,125,247,0);
+  color: white;
+  border: none;
+}
+.el-sub-menu__title:hover{
+  background-color: rgba(255, 255, 255, 0.2);
+}
+.el-sub-menu__title{
+  color: white;
+  font-size: 16px;
+}
+.el-menu-item{
+  color: white;
+  font-size: 16px;
+}
+.el-header{
+  padding: 0 0;
+}
+.el-breadcrumb__item:last-child .el-breadcrumb__inner{
+  color: black !important;
+}

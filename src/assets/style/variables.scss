@@ -1,0 +1,59 @@
+// 工具类名统一前缀
+$prefix: starter;
+
+// Theme colors
+$primary-color: #0080ff;
+$primary-color-green: #04B78A;
+$primary-color-red: #EF2F6E;
+$primary-color-orange: #F2A626;
+
+// 间距
+$spacer: 8px;
+$spacer-s: calc($spacer * 0.5);
+$spacer-l: calc($spacer * 1.5);
+$spacer-1: $spacer;
+$spacer-2: calc($spacer * 2);
+$spacer-3: calc($spacer * 3);
+$spacer-4: calc($spacer * 4);
+$spacer-5: calc($spacer * 5);
+$spacer-6: calc($spacer * 6);
+$spacer-7: calc($spacer * 7);
+$spacer-8: calc($spacer * 8);
+$spacer-9: calc($spacer * 9);
+$spacer-10: calc($spacer * 10);
+
+// 字号
+$font-size: 10px;
+$font-size-s: calc($font-size * 1.2);
+$font-size-base: calc($font-size * 1.4);
+$font-size-l: calc($font-size * 1.6);
+$font-size-xl: calc($font-size * 2);
+$font-size-xxl: calc($font-size * 3.6);
+
+
+
+// 字色
+$text-color-important: #242F57; // 重要文字
+$text-color-secondary: #636E95; // 次要文字
+$text-color-icon: #7C88B1;  // 图标
+$text-color-threelevel: #B2B6C3; // 三级字体
+$text-color-assist: #C1C6D1; //辅助
+$text-color-base: #242F57; // 基本
+
+// 行高
+$line-height: 1.5;
+$line-height-s: 20px;
+$line-height-base: 22px;
+$line-height-l: 24px;
+$line-height-xl: 28px;
+$line-height-xxl: 44px;
+
+// 圆角
+$border-radius: 4px;
+$border-radius-50: 50%;
+
+$title-color: #222;
+$content-color: #666;
+$danger-color: #ff2a00;
+$warning-color: #ff6c00;
+$success-color: #55b777;

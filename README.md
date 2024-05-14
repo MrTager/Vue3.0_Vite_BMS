@@ -1,35 +1,17 @@
-# vue3-project
+# 项目名称
 
-This template should help get you started developing with Vue 3 in Vite.
+嵌入宁夏政务网PC端页面
 
-## Recommended IDE Setup
+## Description
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+pnpm i
 
-## Customize configuration
+pnpm run dev
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+pnpm run build
 
-## Project Setup
+## 图标使用
 
-```sh
-npm install
-```
+<svg-icon name="home" color="#fff" />
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Run Unit Tests with [Vitest](https://vitest.dev/)
-
-```sh
-npm run test:unit
-```
+name: src/assets/icons/svg/*
